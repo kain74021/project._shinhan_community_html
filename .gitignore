@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+
+# Gulp 관련 빌드 폴더
+dist/
+
+# Sass 캐시 파일
+.sass-cache/
+
+# 환경 변수 파일 (보안에 민감한 정보)
+.env
+
+# IDE 설정 파일
+.vscode/
+.idea/
+
+# 운영체제에서 자동 생성되는 파일
+.DS_Store
+Thumbs.db
